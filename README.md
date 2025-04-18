@@ -2,7 +2,7 @@
 **Robust multi-modal Alzheimer’s diagnosis using Schatten-p norm and graph learning**
 
 > 📍 NeurIPS 2025 Submission  
-> 📎 [Paper](https://anonymous.4open.science/r/ROSC-S-48DF/) | 📂 [Open-source Code](https://anonymous.4open.science/r/ROSC-S-48DF/)
+> 📎 [Paper] | 📂 [Open-source Code]
 
 ---
 
