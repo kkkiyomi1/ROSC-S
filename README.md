@@ -1,7 +1,7 @@
 # ROSC-S 🧠
 **Robust multi-modal Alzheimer’s diagnosis using Schatten-p norm and graph learning**
 
-> 📍 NeurIPS 2025 Submission  
+> 📍 IEEE 2025 Submission  
 > 📎 [Paper] | 📂 [Open-source Code]
 
 ---
